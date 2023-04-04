@@ -11,6 +11,7 @@ try {
     }
 } catch (error) {
     alert(error)
+} finally{
+    alert("Programa concluído")
 }
 
-console.log("continuando con el código.")
